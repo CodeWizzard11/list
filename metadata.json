@@ -1,0 +1,6 @@
+{
+  "name": "Carry My Love With You",
+  "description": "An elegant, romantic surprise vanity and travel love letter from India to Doha to Georgia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
